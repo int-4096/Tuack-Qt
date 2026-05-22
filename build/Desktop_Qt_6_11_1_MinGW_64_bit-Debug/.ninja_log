@@ -1,0 +1,12 @@
+# ninja log v6
+5	224	8011571892542432	Tuack-Qt_autogen/timestamp	5d2e8961067a302e
+228	294	8011571893124437	CMakeFiles/Tuack-Qt.dir/Tuack-Qt_autogen/mocs_compilation.cpp.obj	d52674ff11c4f19a
+5	224	8011571892542432	Tuack-Qt_autogen/mocs_compilation.cpp	5d2e8961067a302e
+5	224	8011571892542432	G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/Tuack-Qt_autogen/timestamp	5d2e8961067a302e
+5	224	8011571892542432	G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/Tuack-Qt_autogen/mocs_compilation.cpp	5d2e8961067a302e
+237	1582	8011571893214286	CMakeFiles/Tuack-Qt.dir/main.cpp.obj	388c2fe2e1eb34aa
+1584	1701	8011571906685284	Tuack-Qt.exe	ecc30de24acd8390
+4	18	8011579076493655	G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/Tuack-Qt_autogen/mocs_compilation.cpp	9ceccd2007ddaec7
+18	84	8011579076645557	CMakeFiles/tuack-qt.dir/Tuack-Qt_autogen/mocs_compilation.cpp.obj	3f9a9741ca931a1a
+9	1213	8011579076553644	CMakeFiles/tuack-qt.dir/main.cpp.obj	51f0bd4df6a132c6
+1216	1324	8011579088621295	tuack-qt.exe	28b99434fedea472

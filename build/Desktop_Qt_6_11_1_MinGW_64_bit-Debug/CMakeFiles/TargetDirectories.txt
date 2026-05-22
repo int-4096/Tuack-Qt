@@ -1,0 +1,9 @@
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/tuack-qt.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/tuack-qt_autogen_timestamp_deps.dir
+G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/tuack-qt_autogen.dir

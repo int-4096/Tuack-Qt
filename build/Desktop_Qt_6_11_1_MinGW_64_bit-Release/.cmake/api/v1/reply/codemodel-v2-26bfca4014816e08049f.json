@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-f1cceacee65de53c1424.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tuack-Qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tuack-Qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tuack-Qt-Release-9903a2e1f007d7f6e615.json",
+					"name" : "Tuack-Qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tuack-Qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tuack-Qt_autogen-Release-028dee9965d293e271ae.json",
+					"name" : "Tuack-Qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tuack-Qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tuack-Qt_autogen_timestamp_deps-Release-431e93dbe310f0b18eed.json",
+					"name" : "Tuack-Qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Tuack-Qt/build/Desktop_Qt_6_11_1_MinGW_64_bit-Release",
+		"source" : "G:/Tuack-Qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
